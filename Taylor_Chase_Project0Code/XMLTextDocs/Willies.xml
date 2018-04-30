@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Restaurant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <reviews>
+    <AReview xsi:type="Review">
+      <rating>4.6</rating>
+      <written>Everything was great!</written>
+    </AReview>
+    <AReview xsi:type="Review">
+      <rating>4.9</rating>
+      <written>Absolutely Fantastic</written>
+    </AReview>
+  </reviews>
+  <name>Willies</name>
+  <cuisine>Sports Bar</cuisine>
+</Restaurant>
